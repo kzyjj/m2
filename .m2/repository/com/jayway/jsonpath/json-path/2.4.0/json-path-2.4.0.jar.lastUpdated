@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 01 16:30:26 CST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677659426031
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact com.jayway.jsonpath\:json-path\:jar\:2.4.0 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: Access denied to https\://repo.spring.io/libs-snapshot/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar. Error code 401, 
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1677659414246

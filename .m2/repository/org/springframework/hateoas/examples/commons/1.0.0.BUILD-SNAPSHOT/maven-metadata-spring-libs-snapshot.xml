@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.hateoas.examples</groupId>
+  <artifactId>commons</artifactId>
+  <version>1.0.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190730.172601</timestamp>
+      <buildNumber>87</buildNumber>
+    </snapshot>
+    <lastUpdated>20190730172619</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.BUILD-20190730.172601-87</value>
+        <updated>20190730172601</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.BUILD-20190730.172601-87</value>
+        <updated>20190730172601</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

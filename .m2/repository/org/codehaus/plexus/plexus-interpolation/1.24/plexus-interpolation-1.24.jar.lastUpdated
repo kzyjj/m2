@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 01 16:30:30 CST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677659430865
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:jar\:1.24 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: Access denied to https\://repo.spring.io/libs-snapshot/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar. Error code 401, 
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1677659430220

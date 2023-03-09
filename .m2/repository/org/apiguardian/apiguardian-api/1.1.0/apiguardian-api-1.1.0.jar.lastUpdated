@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 01 16:30:26 CST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677659426120
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.apiguardian\:apiguardian-api\:jar\:1.1.0 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: Access denied to https\://repo.spring.io/libs-snapshot/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar. Error code 401, 
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1677659414255

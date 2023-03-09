@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 02 09:14:36 CST 2023
+spring-test-5.2.9.RELEASE-javadoc.jar>spring-libs-snapshot=
+spring-test-5.2.9.RELEASE.pom>spring-libs-snapshot=
+spring-test-5.2.9.RELEASE-sources.jar>spring-libs-snapshot=
+spring-test-5.2.9.RELEASE.jar>spring-libs-snapshot=

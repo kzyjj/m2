@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 01 16:26:26 CST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677659186178
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact io.r2dbc\:r2dbc-bom\:pom\:Arabba-SR7 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: Access denied to https\://repo.spring.io/libs-snapshot/io/r2dbc/r2dbc-bom/Arabba-SR7/r2dbc-bom-Arabba-SR7.pom. Error code 401, 
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1677659185999

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 01 16:27:17 CST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677659237150
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact net.minidev\:accessors-smart\:pom\:1.2 from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: Access denied to https\://repo.spring.io/libs-snapshot/net/minidev/accessors-smart/1.2/accessors-smart-1.2.pom. Error code 401, 
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1677659236977
